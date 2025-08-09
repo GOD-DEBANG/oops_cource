@@ -1,4 +1,8 @@
 package introduction;
+import introduction_to_package.pack.greetings;
+
+import static introduction_to_package.pack.b.one.message;
+
 class students{
     String Name;
     int Rollno;
@@ -29,6 +33,7 @@ public class oops1 {
         student.changedname("Debang Chowdhury");
 
         student.greeting();
+        message();
 
     }
 
