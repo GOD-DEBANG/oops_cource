@@ -16,7 +16,7 @@ public class Box {
 
    }
    Box(double side){
-       super();
+       // super(); Object class
        this.h = side;
        this.w = side;
        this.l = side;
@@ -29,6 +29,7 @@ public class Box {
        this.g = old.g;
    }
    Box(double h , double l , double w , double g){
+       System.out.println("Box class constructor");
        this.h = h;
        this.w = l;
        this.l = w;

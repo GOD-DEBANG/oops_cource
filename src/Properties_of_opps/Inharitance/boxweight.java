@@ -23,6 +23,9 @@ public class boxweight extends Box {
         // but doesnot need parameter for thisclass
         //super class has no idea what base class contains
     }
+
+    public static void greeting() {
+    }
 }
 
 
