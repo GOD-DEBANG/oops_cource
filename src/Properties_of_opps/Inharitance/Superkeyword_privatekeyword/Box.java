@@ -1,4 +1,4 @@
-package properties_of_oops.Inharitance.Superkeyword_privatekeyword;
+package Properties_of_opps.Inharitance.Superkeyword_privatekeyword;
 
 
 
@@ -19,21 +19,21 @@ public class Box {
         return l;
     }
 
-    Box () {
+    protected Box() {
         this.h = -1;
         this.l = -1;
         this.w = -1;
     }
 
     // cube
-    Box (double side) {
+    protected Box(double side) {
         // super(); Object class
         this.w = side;
         this.l = side;
         this.h = side;
     }
 
-    Box(double l, double h, double w) {
+    protected Box(double l, double h, double w) {
         System.out.println("Box class constructor");
         this.l = l;
         this.h = h;
