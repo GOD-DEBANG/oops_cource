@@ -1,4 +1,4 @@
-package Properties_of_opps.Inharitance.Superkeyword_privatekeyword;
+package properties_of_oops.Inharitance.Superkeyword_privatekeyword;
 
 
 
