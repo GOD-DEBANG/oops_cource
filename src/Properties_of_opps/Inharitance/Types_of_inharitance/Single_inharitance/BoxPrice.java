@@ -1,6 +1,6 @@
-package properties_of_oops.Inharitance.Types_of_inharitance.Single_inharitance;
+package Properties_of_opps.Inharitance.Types_of_inharitance.Single_inharitance;
 
-import properties_of_oops.Inharitance.Superkeyword_privatekeyword.BoxWeight;
+import properties_of_oops.Inharitance.inharitence.Superkeyword_privatekeyword.BoxWeight;
 
 public class BoxPrice extends BoxWeight {
 
