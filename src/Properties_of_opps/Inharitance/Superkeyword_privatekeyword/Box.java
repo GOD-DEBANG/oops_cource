@@ -1,4 +1,4 @@
-package properties_of_oops.Inharitance.Superkeyword_privatekeyword;
+package properties_of_oops.Inharitance.inharitence.Superkeyword_privatekeyword;
 
 
 

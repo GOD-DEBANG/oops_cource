@@ -1,4 +1,4 @@
-package properties_of_oops.Inharitance.Types_of_inharitance.Hybrid_Inharitance;
+package Properties_of_opps.Inharitance.Types_of_inharitance.Hybrid_Inharitance;
 
 public class oops1 {
     //combination of single and multiple inheritance

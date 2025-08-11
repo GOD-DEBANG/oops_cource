@@ -11,13 +11,13 @@ public class wrapper_class {
 
         Integer a = 10;
         Integer b = 50; // It will not Swap as Integer is a Final keyword
-        // Final prevents the constant from being modified a premetive datatype , it acts as a constant
+        // Final prevents the constant from being modified a primitive datatype , it acts as a constant
 
         swap(a, b);
         System.out.println(a + " " + b);
 
         // moving this code inside main so it runs
-        final a kuswaha_debang = new a();// It is permited as it is non premetive datatype but it cant allow you to reasign
+        final a kuswaha_debang = new a();// It is permitted as it is non primitive datatype but it cant allow you to reasign
         kuswaha_debang.name = "Other_name";
 
 
@@ -32,7 +32,7 @@ public class wrapper_class {
 
 // Separate top-level class
 class a {
-    final int num = 10; // Initialized directly, cannot be changed later , and cannot preocced without initiallization
+    final int num = 10; // Initialized directly, cannot be changed later , and cannot proceed without initialization
     String name;
 
     public a(String name){
