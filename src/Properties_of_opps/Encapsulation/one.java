@@ -8,6 +8,7 @@ public class one {
     // this code is responsible for the implementation
     // it hides the code into single entity internally and protected from outer world
     // it focuses on the internal world
+    //
     // encapsulation is the process of containing information
     // Encapsulation focuses on hiding complexity of the system
     // data hiding focus on data security ex: getters and setters
